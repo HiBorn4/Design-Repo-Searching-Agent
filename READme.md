@@ -10,6 +10,8 @@ The **Design Repository Assistant** is a conversational AI application that help
 
 This project was developed as an **Upwork client engagement** and is now part of my professional portfolio.
 
+https://github.com/user-attachments/assets/0d819ba3-5d49-4545-96e5-8ead40a55216
+
 ---
 
 ## 💡 Client Requirements
